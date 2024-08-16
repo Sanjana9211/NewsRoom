@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Reuters",
+      "title": "Protests escalate in India over gruesome rape of doctor",
+      "description": "Thousands of women marched across several Indian cities overnight and Prime Minister Narendra Modi called for strict punishment for crimes against women, as outrage and protests against the gruesome rape and murder of a doctor escalated.",
+      "url": "https://www.reuters.com/world/india/protests-escalate-india-over-gruesome-rape-doctor-2024-08-15/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/OA5LGM2EGFMIHEA4KT246KCZIA.jpg?auth=69b0ccb966d04ac5bca65c1d7671c186ed47ee8ac0098a683cfb80e4a79b68a3&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-08-15T06:22:46Z",
+      "content": null
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": "Uditha Jayasinghe",
+      "title": "Sri Lanka presidential candidates submit election nominations",
+      "description": "Thirty-nine candidates for Sri Lanka's presidential election submitted nominations on Thursday as the Indian Ocean island nation prepares for a Sept. 21 vote key to charting its path out of a gruelling financial crisis.",
+      "url": "https://www.reuters.com/world/asia-pacific/sri-lanka-presidential-candidates-submit-election-nominations-2024-08-15/",
+      "urlToImage": "https://www.reuters.com/resizer/v2/SRWOQZKQGRLXXIGL3YXPE34M4A.jpg?auth=65df0a7fa0b2157443a64324e5219cd9f6437c0653bd810a90c386ad7f34710b&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2024-08-15T06:16:41Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": "The Indian Express",
+      "title": "5 takeaways from PM Modi’s I-Day speech: Framing UCC as ‘secular civil code’ to message on women’s safety - The Indian Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSS1udjA0YlpEeEMxS1I0d2luc050WHZyZklNWnpncGdWYUx1TWxuTzZjLWZMME1MeGpoeFJrRDJoelpYSS1sdTQ2QU5DU054MUVIMEN4SHNLaU55cUhtczRyUjNoYU5Ecm1NbDB5LTl5dHZ5ZTlCN1FPUHBnU3VNT0NNOWozTnhqaDUyUFB3NDMzc1ZMRFhHVUtjbnF6cmZiQjJHWHhpdnktVllN0gGzAUFVX3lxTE1KS29JOERsd1c3Mkh5RzZyclZJOWZtOXVfb2t6ZkxkbFYzWndnOUlkMkFQdFFVcnBhc3AyLXIyT0R2cERfNTlWQU5saUVaVFMwWGVfNk52UXpBZWhXQ2RCUVJKbkZXMGUwRW1leGVhbTBHNkFoZGlHVUVRd2xoeGpocy1FT196QXJxUWE1dXZFcTYtWEh5SkhuMkNSX2lrdjA5eUNKRnhKUlozM2o5MXdZenFr?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-15T05:37:55+00:00",
+      "content": null
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kolkata: Thousands march against rape and murder of doctor in India",
+      "description": "Tens of thousands of women march through Kolkata in protest against the rape and murder of a doctor.",
+      "url": "https://www.bbc.co.uk/news/articles/crmwj4z1xpko",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/88bc/live/f8c01e10-5a6d-11ef-8f0f-0577398c3339.jpg",
+      "publishedAt": "2024-08-15T04:22:10.5048187Z",
+      "content": "Despite scant resources, Kolkatas Reclaim the Night march appeared to have been meticulously organised. In an advisory, organisers welcomed women and people from marginalised sexual and gender identi… [+965 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Kolkata doctor's rape and murder in hospital alarm India",
+      "description": "The rape and murder of a female doctor in India highlight the violence against healthcare workers.",
+      "url": "https://www.bbc.co.uk/news/articles/c93pqq9r5n4o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0b64/live/b9fa9960-589e-11ef-aebc-6de4d31bf5cd.jpg",
+      "publishedAt": "2024-08-14T03:07:12.8444767Z",
+      "content": "Things have worsened over the years, says Saraswati Datta Bodhak, a pharmacologist at a government hospital in West Bengal's Bankura district. \"Both my daughters are young doctors and they tell me th… [+1197 chars]"
+    }
+  ]
+}
