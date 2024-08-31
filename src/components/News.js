@@ -7,7 +7,8 @@ export class News extends Component {
       console.log("Hello I am a constructor from News component");
       this.state={
           articles : [],
-          loading : false
+          loading : false,
+          page : 1
       }
   }
 
@@ -31,6 +32,10 @@ export class News extends Component {
             </div>
         })}
             
+        </div>
+        <div className="container d-flex justify-content-between">
+        <button type="button" className="btn btn-dark">Previous</button>
+        <button type="button" className="btn btn-dark mx-3">Next</button>
         </div>
       </div>
     )
