@@ -2,9 +2,6 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 
 export class Navbar extends Component {
-  static propTypes = {
-
-  }
   render() {
     return (
       <div>
@@ -21,6 +18,18 @@ export class Navbar extends Component {
                     </li>
                     <li className="nav-item">
                     <a className="nav-link" href="/about">About</a>
+                    </li>
+                    <li className="nav-item">
+                    <a className="nav-link" href="/business">Business</a>
+                    </li>
+                    <li className="nav-item">
+                    <a className="nav-link" href="/science">Science</a>
+                    </li>
+                    <li className="nav-item">
+                    <a className="nav-link" href="/entertainment">Entertainment</a>
+                    </li>
+                    <li className="nav-item">
+                    <a className="nav-link" href="/sports">Sports</a>
                     </li>
                 </ul>
                 </div>
